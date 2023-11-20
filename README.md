@@ -1,12 +1,10 @@
+<br clear="both">
+
 <h2 align="left">Hi, my name is Lorenzo! A fresh Full-Stack Web Developer. 🎉<br>Check my repos to see which projects I'm currently working on!</h2>
 
 ###
 
-<img align="right" height="300" src="https://i.ibb.co/4FDLgZN/Linked-In-profile-picture-6.png"  />
-
-###
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -30,32 +28,42 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/LorenzoPorrega/LorenzoPorrega/output/snake.svg" alt="Snake animation" />
+<br clear="both">
+
+<img align="left" height="200" src="https://i.ibb.co/4FDLgZN/Linked-In-profile-picture-6.png"  />
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPorrega&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoPorrega&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=LorenzoPorrega&locale=en&mode=daily&theme=vue-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
 <div align="right">
-  <a href="https://www.linkedin.com/in/lorenzo-porrega/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="discordapp.com/users/318433235946438656" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="lore.porrega@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?fs=1&to=lore.porrega@gmail.com&tf=cm" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LorenzoPorrega&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoPorrega&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=LorenzoPorrega&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/LorenzoPorrega/LorenzoPorrega/output/snake.svg" alt="Snake animation" />
 
 ###
