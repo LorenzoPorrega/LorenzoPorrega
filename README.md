@@ -36,7 +36,7 @@
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.postimg.cc/fbt8QfzF/Linked-In-profile-picture-6.png"  />
+<img align="left" height="200" src="https://i.ibb.co/4FDLgZN/Linked-In-profile-picture-6.png"  />
 
 ###
 
