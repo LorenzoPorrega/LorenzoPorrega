@@ -28,14 +28,14 @@
   <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
-
+  <img width="12" />
 </div>
 
 ###
 
 <br clear="both">
 
-<img align="left" height="200" src="https://i.postimg.cc/fbt8QfzF/Linked-In-profile-picture-6.png"  />
+
 
 ###
 
