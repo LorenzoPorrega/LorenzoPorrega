@@ -2,6 +2,7 @@
 
 I am Lorenzo,
 a full stack web developer from 🇮🇹
+in search of a new developing adventure!
 
 ## My beloved dev stack 🧑‍💻
 
