@@ -41,10 +41,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LorenzoPorrega&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <div align="right">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <a href="discordapp.com/users/318433235946438656" target="_blank">
