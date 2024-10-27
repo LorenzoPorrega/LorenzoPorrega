@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="left">Hi, my name is Lorenzo! A fresh Full-Stack Web Developer. 🎉<br>Check my repos to see which projects I'm currently working on!</h2>
 
 ###
