@@ -26,5 +26,5 @@ in search of a new developing adventure!
 
 ## 📫 How to reach me
 
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-porrega/) ⌨️
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/lorenzo-porrega/) 🫶
 - Mail me [lore.porrega@gmail.com](mailto:lore.porrega@gmail.com) ✉️
